@@ -102,9 +102,9 @@ Feel free to [open an issue](https://github.com/yourusername/theForgottenKeeper/
 ---
 
 ## 💌 **Contact**
-- **Developer**: [Your Name]  
-- **Email**: your.email@example.com  
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)  
+- **Developer**: Kai Indigo Wolf  
+- **Email**: kai.indigo.wolf@gmail.com  
+- **GitHub**: [Your GitHub Profile](https://github.com/IndigoW0lf)  
 
 ---
 
